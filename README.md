@@ -1,5 +1,6 @@
 # team-efforts
-Project for computing Teams Effort
+Project for computing Teams Effort.
+Input csv files: input-data.csv and unit-test-data.csv.
 
 To test application:
 
