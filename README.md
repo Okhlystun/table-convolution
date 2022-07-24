@@ -1,6 +1,7 @@
 # team-efforts
 Project for computing Teams Effort.
 Input csv files: input-data.csv and unit-test-data.csv.
+java.version=17; maven.compiler=17
 
 To test application:
 
