@@ -1,5 +1,5 @@
-# team-efforts
-Project for computing Teams Effort.
+# table-convolution
+Project for computing Teams Effort by table-convolution.
 Input files: input-data.csv and unit-test-data.csv.
 java.version=17; maven.compiler=17
 
